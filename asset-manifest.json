@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dong_app_2021/static/css/main.a3351659.chunk.css",
+    "main.js": "/dong_app_2021/static/js/main.a09b5a41.chunk.js",
+    "main.js.map": "/dong_app_2021/static/js/main.a09b5a41.chunk.js.map",
+    "runtime-main.js": "/dong_app_2021/static/js/runtime-main.538b02fd.js",
+    "runtime-main.js.map": "/dong_app_2021/static/js/runtime-main.538b02fd.js.map",
+    "static/js/2.37c45111.chunk.js": "/dong_app_2021/static/js/2.37c45111.chunk.js",
+    "static/js/2.37c45111.chunk.js.map": "/dong_app_2021/static/js/2.37c45111.chunk.js.map",
+    "index.html": "/dong_app_2021/index.html",
+    "static/css/main.a3351659.chunk.css.map": "/dong_app_2021/static/css/main.a3351659.chunk.css.map",
+    "static/js/2.37c45111.chunk.js.LICENSE.txt": "/dong_app_2021/static/js/2.37c45111.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.538b02fd.js",
+    "static/js/2.37c45111.chunk.js",
+    "static/css/main.a3351659.chunk.css",
+    "static/js/main.a09b5a41.chunk.js"
+  ]
+}
